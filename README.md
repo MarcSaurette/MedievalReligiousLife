@@ -1,33 +1,32 @@
 ---
 description: >-
-  Introduction to the course, "The Making of the Middle Ages" taught by Marc
-  Saurette, Associate Professor of Medieval History at Carleton University
-  (Ottawa, Ontario).
+  A site in support of HIST 3006, "Medieval Religious Life" – a class taught by
+  Dr. Marc Saurette at Carleton University (Ottawa, Canada).
 ---
 
-# FYSM 1405D: The Making of the Middle Ages
+# Medieval Religious Life
 
-If you’ve ever walked past Parliament in Ottawa, been to a nineteenth-century church, watched a King Arthur movie or played a hack-and-slash videogame, you already know that the Middle Ages has a life of its own in modern society. In this course, we will explore what it means to be “medieval”, we will learn how our understanding of this time period was formed, and we will explode many of today’s pervasive myths about the Middle Ages. Our goal is not only to understand what the Middle Ages were, but also to explain how and why we understand it the way that we do.&#x20;
+Popular representations of religion during the Middle Ages focus on Christianity - depicting medieval people as dogmatic fundamentalists with a propensity to burn witches and heretics. Churchmen tend to be presented even worse – as Inquisitors who delight in lording their religious authority over anyone who loves freedom. They especially hate non-Christians.&#x20;
 
-This course does not expect students to have any knowledge of the medieval world, though any background you might have would be great. Instead it is designed to introduce you to the Middle Ages and to other key skills for succeeding at university. We will start from fundamentals and develop on your growing skills (in the period and as historians) over the year. Over the course of the year, we will work on developing a game (boardgame, card game, role-playing-game) that communicates your developing knowledge of the Middle Ages.&#x20;
+The medieval reality was, well, somewhat different. Our class will explore the reality of medieval religion in what we now call Europe during the eleventh and twelfth centuries. We will answer how it was that people following different religions (Christianity, Islam and Judaism) could co-exist during the Middle Ages, how religion could open up opportunities (for women especially) and how religious disagreements were resolved. Our examples will tend to focus on medieval Christianity and how it saw its relationship to other religions.&#x20;
 
-Do not expect this course to be abstract and theoretical – we will be reading medieval documents, touring (digitally) medieval sites and  playing with the digitized materials now freely online from the British Museum or the Bibliothèque Nationale de France. While our topic is medieval, our approach will be quite modern. We will be using digital tools to communicate with one another, to share your work, and to try to understand why medieval people left the evidence they did.&#x20;
+We will consider three historical events:&#x20;
 
-The course is divided into three major areas of exploration:&#x20;
+1. the negotiated surrender of Toledo in 1086 to King Alphonso VI,&#x20;
+2. the life of Raingarde de Montboissier, a nun at Marcigny who died in 1134,&#x20;
+3. and the heresy trial of Peter Abelard in 1141.
 
-1\.     **Evidence**:&#x20;
+The surrender of Toledo is often described as the beginning of the Christian _Reconquista_ (reconquest/crusade) against Muslim kingdoms in Iberia (aka Spain), but the surrender of Toledo makes clear how religious identity is not as set-in-stone as modern people often think. Politics in eleventh-century Iberia was not determined by religion where Christian knights such as El Cid would fight for Muslim kings and Muslim lords, such as Sisnando Davidez, would pledge fealty to the King of Léon. The Jewish, Christian and ruling Muslim communities of Toledo co-existed in close quarters and, in 1086, came together to negotiate the transition to Leonese rule. Our goal will be to consider how religion played a role in how Toledo surrendered and was transformed afterwards. &#x20;
 
-* working on newly developed digital platforms for manuscript studies, we will look at and understand real medieval manuscripts (at least on your screen). &#x20;
-* we will read medieval texts in translation: for example, the story of Saint Guinefort (the holy greyhound), Crusade chronicles, or the original account of King Arthur by Geoffrey of Monmouth
-* &#x20;In the future (non-pandemic time) I hope to tinker with the Discovery Centre’s 3D printer to reproduce, for example, medieval book clasps or the Lewes Chessmen from open source 3D printing files.&#x20;
+Our second focus will be a nun at the twelfth-century Benedictine convent of Marcigny. Raingarde de Montboissier was the mother of one of the most powerful churchman of the twelfth-century, Abbot Peter the Venerable, but was renowned as a holy woman in her own right. Her story – moving from aristocratic woman to nun to object of veneration – showcases how the religious life opened up options for women's autonomy and encouraged particularly female forms of devotion. &#x20;
 
-2\.     **Historians**:&#x20;
+Our third focus is the Council of Sens in 1141 - where university professor, theologian, and sometime-monk, Peter Abelard, was formally accused of heresy by Bernard of Clairvaux. We consider less the details of the accusation and more the social and political background to this process which involved the King of France, the most important bishops of the realm and the powerful Papal Curia. This trial showcases the growing institutionalization of the medieval Church and foreshadows the powerful bureaucracy that would develop into a papal monarchy.&#x20;
 
-* Reading articles or extracts from studies written by historians, we will explore how different historians have influenced how we read and understand evidence. Key for studying any topic from a historical perspective is to recognize that interpretations of the past can change significantly over time and place.
-* We will explore how nineteenth-century nationalism, in particular, is very influential in forming our ideas of the Middle Ages. We still all know about King Arthur because medieval and early modern people were so good at making him a symbol of English (and later North American) nationhood. Spoiler: King Arthur was made up in the twelfth-century, but the lie was so good people believe it today…
+Among the people we will be learning about are:&#x20;
 
-3\.     **Popular Representations**:
-
-* Your (and my) feelings about the medieval past are often built more by non-academic things than by reading historians. Novels, movies, commercials and videogames all influence our understanding of the Middle Ages and can be more persuasive than real evidence. But they rarely offer a truthful representation of the past. We will explore the Middle Ages that “feels” right (but might not be historically accurate) and figure out why myths of the Middle Ages are so common.&#x20;
-
-After addressing some fundamentals, our seminar will spend much of the first term exploring and thinking about representations, before moving back to the medieval evidence for the "real" Middle Ages.&#x20;
+1. **Alphonso VI, King of Léon-Castille.** This king of Léon-Castille survived defeat at the hands of his brother Sancho, exile to the Muslim kingdom of Toledo, the invasion of a powerful Almoravid army and the rumours that he killed his brother Garcia. This king oversaw a kingdom and its church in the midst of transforming itself. Like his father Fernando, Alphonso made an alliance with the Church to cement his power, but he nonetheless showed tolerance for non-Christian religions.
+2. **Yahya ibn Ismail ibn Yahya (al-Qadir), King of Toledo** was nepo-baby unable to rise to the challenge of ruling Toledo. Al-Qadir survived two different citizen revolts against his rule but could not defend against the might of Alphonso VI, who forced the surrender of Toledo as his seat of power. He ruled over a multi-ethnic and religiously diverse kingdom, which lived on long after his departure.
+3. **Raingarde de Montboissier**, wife, mother, and nun who left behind the trappings of her privileged aristocratic life to retire to a life of poverty, religious devotion and unceasing service to others. A long letter written by Peter the Venerable to his siblings records the life and memory of this woman and shows the complicated position women held in both secular and religious life during the early twelth-century. Her story highlights the particular importance of religious reputation, and the bodily nature of female spirituality.
+4. **Peter the Venerable (de Montboissier)**: the abbot of Cluny and head of (at the time) the largest network of monks/nuns in the medieval Christian Church. He was friend to Peter Abelard, enemy to Bernard of Clairvaux, and hater of anybody who wasn't his kind of Christian (not the nicest guy, I admit, and not atypical of his generation). He was beloved in his lifetime and venerated for centuries afterwards. He is one of a million monks named Peter.
+5. **Peter Abelard:** a charismatic schoolmaster and self-proclaimed bad boy of theology. He spent his life trying to overturn the "old school" and argue that his way of thinking and teaching was the future (spoiler: he was right). He ruffled a lot of feathers and made some poor life choices. He writes about these poor decisions in his quasi-autobiography, _A History of My Calamities._ He retired to the monastery of Cluny at the end of his life, and thus ended his life as another monk named Peter.&#x20;
+6. **Heloise:** a gifted thinker, an abbess of the Paraclete (a convent she largely founded). She was "tutored" by Abelard, bore his child (whom they named Astrolabe) before entering the religious life as a nun. She left behind a correspondence with Peter Abelard and Peter the Venerable, wrote a rule for her monastery and generally did some really cool stuff.&#x20;
