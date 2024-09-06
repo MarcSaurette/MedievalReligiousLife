@@ -32,3 +32,4 @@
 
 * [Orientation](prelude/orientation.md)
 * [What is Medieval Religion?](prelude/what-is-medieval-religion.md)
+* [The Classical Inheritance](prelude/the-classical-inheritance.md)
