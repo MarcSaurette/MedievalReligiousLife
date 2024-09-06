@@ -31,4 +31,4 @@
 ## Prelude
 
 * [Orientation](prelude/orientation.md)
-* [Medieval Religion](prelude/medieval-religion.md)
+* [What is Medieval Religion?](prelude/what-is-medieval-religion.md)
