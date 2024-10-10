@@ -18,6 +18,12 @@ _500 words minimum_
 
 The first stage of your three-part document analysis project is to identify and communicate the fundamental information about your document.&#x20;
 
+Your goal is to identity the **who** (the author, the audience\[s]), the **when** (when it was written, the time period it describes), and the **where** (where it was written, where it circulated).  In exercise no. 2 you will describe the **what** (what is it about) and in exercise no. 3 you will explain the **why** (why it was written in the way it was written) to explain what we, as historians, can see it offers evidence of.&#x20;
+
+{% hint style="info" %}
+Answering these questions will start usually from the introduction to your text. Source readers have concise introductions which provide basic information which will likely require that you use additional scholarly sources to flesh out this information.&#x20;
+{% endhint %}
+
 1. Select a document from the assigned primary source readings (randomly is ok, but not preferable):
    1. If students wish to explore a specific topic not addressed in the assigned readings, non-assigned documents can be selected from the source readers folder posted in the Perusall library AS LONG AS THEY DEAL WITH SOME ASPECT OF MEDIEVAL RELIGION. If using a non-assigned primary source, you must receive approval from the professor a week before exercise no. 1 is due (i.e. September 19th).&#x20;
    2. You may also compare two document extracts that seem to be complementary/ in opposition and you think the juxtaposition of the two documents will be revealing something historically important. Be aware that since you will be trying to describe two documents your paper will likely need to be more than the minimum word count, so that you have enough space to describe the basics for two texts and account for differences. But a comparative approach can be fruitful.&#x20;
@@ -27,14 +33,14 @@ The first stage of your three-part document analysis project is to identify and 
 2. Read the document(s). An initial reading will allow you to discover what kinds of ideas are present in the document. Print out a paper copy so that you can mark it up further or add nuanced annotations to the document on Perusall.
 3. Make notes about terminology you wish to clarify or need help with. Terms which seem to relate to a key theme (which you identity) should be noted and later defined (annotations can link to definitions from the [Oxford English Dictionary](https://www.oed.com/?tl=true), or such secondary sources as articles on JStor).&#x20;
 4. Identify the fundamentals. This information might need to come from within the text, from the brief preface that might appear with it, or requires further reading from scholarly sources. In preparation, you will need to answer:
-   1. When was the document written? What period does it belong to? What events close in time might have an impact on its writing?
+   1. Reflect briefly on the historical context of the primary source. When was the document written? What period does it belong to? What events close in time might have an impact on its writing? In general, what were major political, social, economic, or intellectual currents of the time period?
       1. If Augustine wrote his _City of God_ (an excerpt of which we read in week 3) before 410, why is that date significant? What does this timing help us understand or help us make conclusions about
-   2. Who wrote it? And who were they?
+   2. Who wrote it? And who were they? Reflect on the author of the primary source: Who produced this primary source? What was the author’s place in society (profession, status, class, gender, ethnicity, etc)? How might these factors influence the author’s point of view in the document? How would you characterize the author’s perspective?
       1. If anonymous, what can we tell about the author(s)?)
       2. Can we understand something about the author from the content of the document or must you depend on secondary literature. Use scholarly descriptions (secondary or tertiary sources to support your description of the author)?
    3. Where was it written? Where did it circulate (is this different)?
       1. "Where" can be a specific place or something wider. Was it limited to one monastery in southern France, or did it circulate around the Mediterranean?&#x20;
-   4. Who was the audience? Do we know this from clues inside the text or from a history of its circulation.&#x20;
+   4. Reflect on the audience of the primary source. What was the intended audience for this primary source? How might considerations about the intended audience shape the content and form offered in this source? Do we know this from clues inside the text or from a history of its circulation.&#x20;
       1. Books of the Bible, for example have a long life - circulating first in Hebrew, in Greek, later in Latin... and thus the audience changes.
 5. Answering the above questions will help you understand the historical (religious/intellectual) context.&#x20;
    1. (Re)Read the optional secondary sources for the week corresponding to your primary source or reread your class notes (if we have already covered the primary source) to understand the time during which the text was written.&#x20;
@@ -43,7 +49,7 @@ The first stage of your three-part document analysis project is to identify and 
 {% hint style="info" %}
 Your paper will describe the historical context of the document you have chosen to study. But it will also have an argumentative element. It will argue about what time period/context the document has something to say.&#x20;
 
-The Apostle's Creed read in the second week of class can be used by historians to describe the institutionalization of the Imperial Church (i.e. evidence of how the Council of Nicea defined orthodox belief in light of the Arian heresy). But the version of the Apostle's Creed we read is an early modern translation. Thus the document could potentially speak to either context.
+The Apostle's Creed read in the second week of class can be used by historians to describe the institutionalization of the Imperial Church (i.e. evidence of how the Council of Nicaea defined orthodox belief in light of the Arian heresy). But the version of the Apostle's Creed we read is an early modern translation. Thus the document could potentially speak to either context.
 {% endhint %}
 
 ## Project Contents
